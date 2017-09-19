@@ -1,0 +1,40 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    diff helps us to see wich lines of code were changed. A line with "minus" sign shows us that this line was different 
+     in the old version of a file, but a line with "plus" sign shows this line in the new file version.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having the entire history of a file help you to see how the file was changed from the time perspective and if 
+    I did something wrong I can easily take an older and stable version of a file
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: I decide myself when it's appropriate to make a commit.
+    Cons: - I can forget to make a commit and if something unexpected happens all changes will be lost;
+          - I can make a commit with slight changes in a file;
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because, when you write code, functions or objects in separate files could be interdependant, therefore it make sense
+    to commit multiple files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I can use the git log command to view the history of all commits. Using git diff I can compare two files and find 
+    the differences in them. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because you have some previously saved versions, so that if you do something wrong you can use the old version where 
+    everything was fine.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use Git for contribution in other projects or for my work purposes.
