@@ -7,3 +7,8 @@ How is the staging area different from the working directory and the repository?
 
   The staging area offers an opportunity to choose from the files which we'd like to commit. Add them to the staging 
   area or remove if needed.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+  Using command git diff --staged we can compare changes that was made in files to the same files in the last commit.
+  If these changes are logically enough to be commited then we can commit them.
