@@ -12,3 +12,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 
   Using command git diff --staged we can compare changes that was made in files to the same files in the last commit.
   If these changes are logically enough to be commited then we can commit them.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+  If we need to check a new feature and we don't know if it would be used in the future, then we could create a new branch
+  
