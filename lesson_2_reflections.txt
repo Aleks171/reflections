@@ -24,4 +24,9 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
   The result of merging two branches is the commit that contains a code in the latest commits of each branches and
-  the new commit becomes a part of the checked out branch. 
+  the new commit becomes a part of the checked out branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+  Pros: automatic merging saves our time when merging.
+  Cons: If there's a conflict during the merging process, then we have to solve it manually.  
