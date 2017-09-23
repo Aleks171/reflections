@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+  I'd want to have a remote repository in these cases:
+    1. To store copies of my files not only on my computer for the reason not to loose them if something bad happens with my PC.
+    2. To have access to the files from another computer.
+    3. To work with the files with other people.
