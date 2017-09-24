@@ -9,3 +9,8 @@ Why might you want to always pull changes manually rather than having Git automa
 
   Because when you're working on a feature you need your code to be immutable, so automatic update might change the code that you're
   working on. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+  Clones are used to copy repositories on a computer. We use forks if we want to copy someone else repositories and edit them 
+  without affecting original ones. Branches are used to work, for example, on different features or bug fixes, on the same repository.
