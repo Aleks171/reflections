@@ -14,3 +14,8 @@ Describe the differences between forks, clones, and branches. When would you use
 
   Clones are used to copy repositories on a computer. We use forks if we want to copy someone else repositories and edit them 
   without affecting original ones. Branches are used to work, for example, on different features or bug fixes, on the same repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  - You can inspect the copy to know what changes were introduced by somebody else.
+  - You can compare changes in the remote with your local state.
