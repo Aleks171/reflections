@@ -19,3 +19,9 @@ What is the benefit of having a copy of the last known state of the remote store
 
   - You can inspect the copy to know what changes were introduced by somebody else.
   - You can compare changes in the remote with your local state.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  I would upload files somewhere and sent an email to someone to check changes. Then if something wrong that man
+  would have to send me an email back highlighting the file where I need to fix the problems. So that's a lot of extra actions.
+  Of course Git makes it easier to collaborate with other people.
